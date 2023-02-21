@@ -1,4 +1,4 @@
-# TS-TOOLS
+# TIME SERIES (TS)-TOOLS
 Tools to manage TS, as fill NaN, resample, normalize, standardize
 
 NDVI complex harmonics is needed to determine a trend for this variable, high quality observations are usually below 50%
